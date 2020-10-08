@@ -1,4 +1,4 @@
-package test;
+package EjerciciosProcesos;
 
 public class prueba {
 
